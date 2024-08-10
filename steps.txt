@@ -1,0 +1,14 @@
+Step1: Make sure your machine is *git configured*
+
+https://github.com/Vaishali-Bhosle/MedicA3.git
+
+Step2: Clone the above given repository and fetch the latest version
+
+Step3: Create directories for frontend and backend
+
+Step4: Change your directory to frontend and run the following commands
+
+        npx create-react-app medica3
+        cd medica3
+        npm start  // this command will start the react server, and if the react logo is coming on the page then your server is running properly.
+        

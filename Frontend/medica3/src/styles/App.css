@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.App.slideshow-active .slide-editor {
+  display: none;
+}
