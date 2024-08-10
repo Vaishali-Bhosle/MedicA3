@@ -11,4 +11,5 @@ Step4: Change your directory to frontend and run the following commands
         npx create-react-app medica3
         cd medica3
         npm start  // this command will start the react server, and if the react logo is coming on the page then your server is running properly.
-        
+
+Step5: Im stuck!
